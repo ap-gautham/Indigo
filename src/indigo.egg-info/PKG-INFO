@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: indigo
+Version: 0.1
+Summary: custom package for helper functions
+Home-page: https://github.com/ap-gautham/indigo
+Author: Gautham Adamane Pallathadka
+Author-email: gadaman1@jh.edu
+License: MIT
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: astropy

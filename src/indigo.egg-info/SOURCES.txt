@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+src/indigo/__init__.py
+src/indigo/core.py
+src/indigo.egg-info/PKG-INFO
+src/indigo.egg-info/SOURCES.txt
+src/indigo.egg-info/dependency_links.txt
+src/indigo.egg-info/requires.txt
+src/indigo.egg-info/top_level.txt
+src/indigo/data/indigo.mplstyle

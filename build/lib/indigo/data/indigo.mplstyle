@@ -1,0 +1,17 @@
+axes.titlesize : 24
+axes.labelsize : 23
+lines.linewidth : 1
+lines.markersize : 10
+xtick.labelsize : 20
+xtick.major.size : 10
+xtick.major.pad : 5
+ytick.labelsize : 20
+ytick.major.size : 10
+ytick.major.pad : 5
+figure.figsize : 6,6
+
+font.family : Times New Roman
+text.usetex : True
+
+legend.fontsize : 20
+legend.handlelength : 1
