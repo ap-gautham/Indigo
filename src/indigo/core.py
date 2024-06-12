@@ -1,3 +1,10 @@
+from astropy.io import fits
+from astropy.table import Table
+import matplotlib.pyplot as plt
+import numpy as np
+
+from pyvo import registry 
+
 def hello():
     print('Hi')
     print('Test')
